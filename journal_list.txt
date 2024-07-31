@@ -1,3 +1,34 @@
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems = IEEE Trans. Comput.-Aided Design
+Integr. Circuits Syst.
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems = IEEE Trans. VLSI Syst.
+IEEE Transactions on Computers = IEEE Trans. Comput.
+IEEE Transactions on Evolutionary Computation = IEEE Trans. Evol. Comput.
+IEEE/ACM International Symposium on Low Power Electronics and Design 
+= IEEE/ACM Int. Symp. Low Power Electron. Des.
+ACM/IEEE International Symposium on Computer Architecture = ACM/IEEE Int. Symp. Comput. Archit.
+IEEE International Solid-State Circuits Conference (ISSCC) = IEEE Int. Solid-State Circuits Conf.
+IEEE Hot Chips Symposium = IEEE Hot Chips Symp.
+Electronics = Electron.
+Design, Automation and Test in Europe Conference and Exhibition = Design Autom. Test Eur. Conf. Exhib.
+IEEE/ACM International Symposium on Microarchitecture = IEEE/ACM Int. Symp. Microarchitecture
+Sustainable Computing: Informatics and Systems = Sustainable Comput.: Informatics Syst.
+IEEE International Symposium on High Performance Computer Architecture = IEEE Int. Symp. High Perform. Comput. Archit.
+Microprocessors and Microsystems = Microprocess. Microsyst.
+IEEE Transactions on Circuits and Systems I: Regular Papers = IEEE Trans. Circuits Syst. I
+IEEE Transactions on Circuits and Systems II: Express Briefs = IEEE Trans. Circuits Syst. II
+Proceedings of the IEEE Custom Integrated Circuits Conference = Proc. IEEE Custom Integr. Circuits Conf.
+Proceedings of the ACM International Conference on Supercomputing = Proc. ACM Int. Conf. Supercomput.
+ACM Computing Surveys = ACM Comput. Surv.
+International Conference on Field Programmable Logic and Applications = Int. Conf. Field Program. Logic Appl.
+Asia and South Pacific Design Automation Conference = Asia South Pac. Des. Autom. Conf.
+IEEE/ACM International Conference on Computer-Aided Design = IEEE/ACM Int. Conf. Comput.-Aided Des.
+Proceedings of ACM/EDAC/IEEE Design Automation Conference = Proc. ACM/EDAC/IEEE Des. Autom. Conf.
+Proceedings of ACM SIGKDD International Conference on Knowledge Discovery and Data Mining = Proc. ACM SIGKDD Int. Conf. Knowl. Discov. Data Min.
+Advances in Neural Information Processing Systems = Adv. Neural Inf. Process. Syst.
+Journal of Machine Learning Research = J. Mach. Learn. Res.
+Proceedings of genetic and evolutionary computation conference = Proc. Genet. Evol. Comput. Conf.
+Fourth Workshop on Computer Architecture Research with RISC-V = 4th Workshop Comput. Archit. Res. with RISC-V.
+Swarm and Evolutionary Computation = Swarm Evol. Comput.
 "Meteor" Forschungsergebnisse = "Meteor" Forschungsergeb.
 2D Materials = 2D Mater.
 3D Printing and Additive Manufacturing = 3D Print. Addit. Manuf.
@@ -15209,3 +15240,4 @@ Zoosystematics and Evolution = Zoosyst. Evol.
 Zuchthygiene = Zuchthygiene
 ZWR = ZWR
 Zygote = Zygote
+
